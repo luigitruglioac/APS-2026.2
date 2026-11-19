@@ -6,4 +6,5 @@ public class Email implements Notificacao{
     public void enviarMensagem(String mensagem) {
         System.out.println("Notificação do EMAIL: " + mensagem);
     }
+
 }
